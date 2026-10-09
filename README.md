@@ -1,5 +1,7 @@
 # apify-examples
 
+
+Background and the direct-to-Google alternative: [pytrends is dead: 3 ways to get Google Trends data in 2026 (with code)](https://dev.to/datafabrik/pytrends-is-dead-3-ways-to-get-google-trends-data-in-2026-with-code-1i5i) on dev.to.
 Three small, runnable scripts that call the Data Fabrik Actors on the Apify platform and do something useful with the result: a CSV of Google Trends data, a flight price history with a drop alert, and a 7-night rate-shopping table for one hotel.
 
 | Script | Actor | What it does | Approximate cost per run |
